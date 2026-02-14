@@ -1,4 +1,1 @@
 # Evil factorio
-
-
-xdriutvynxidufuyxveineruyinvtuseycribwygvbyidutydsonvtuegvbiwygevtiewycrgiwbueycrtgweiburygvesiubvgyweinyvsgirunczgirucywagbzdscknjfwefybicuwhgreubiyg
