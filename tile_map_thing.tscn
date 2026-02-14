@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c2dua5hx7m5am"]
+
+[ext_resource type="Script" uid="uid://dytvoigaxrje0" path="res://tile_map_thing.gd" id="1_rhufj"]
+
+[node name="TileMapThing" type="Node"]
+script = ExtResource("1_rhufj")
