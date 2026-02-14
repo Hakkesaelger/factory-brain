@@ -1,6 +1,6 @@
 extends CharacterBody2D
 
-@export var walk_speed = 100
+@export var walk_speed = 200
 @export var placeable = Vector2i(0,5)
 
 func _physics_process(_delta: float) -> void:
